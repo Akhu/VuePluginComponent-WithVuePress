@@ -1,4 +1,8 @@
-# vue-component-library
+# Vue-component-library with VuePress
+
+A Simple boiler plate to help getting started creating a new Vue Plugin with Component library. All of this served with a nice documentation to showcase your components 🏆.
+
+![](doc_sample.png)
 
 ## Project setup
 ```
